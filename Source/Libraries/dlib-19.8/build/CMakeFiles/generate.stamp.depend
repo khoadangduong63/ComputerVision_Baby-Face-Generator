@@ -1,0 +1,50 @@
+# CMake generation dependency list for this directory.
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/dlib/CMakeLists.txt
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/3.10.1/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/3.10.1/CMakeCCompiler.cmake
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/3.10.1/CMakeCXXCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC.cmake
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/3.10.1/CMakeRCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/dlib/cmake_utils/set_compiler_specific_options.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/GNUInstallDirs.cmake
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/dlib/cmake_utils/release_build_by_default
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/dlib/cmake_utils/use_cpp_11.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPNG.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindJPEG.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/dlib/config.h.in
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/dlib/revision.h.in
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/dlib/cmake_utils/dlibConfig.cmake.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/WriteBasicConfigVersionFile.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/dlib/cmake_utils/dlib.pc.in

@@ -1,0 +1,538 @@
+The system is: Windows - 6.1.7601 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:57:43 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\3.10.1\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\3.10.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\3.10.1\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.30
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/3.10.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:57:47 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\3.10.1\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\3.10.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\3.10.1\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.20
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/3.10.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_cfaf0.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:57:50 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_cfaf0.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_cfaf0.dir\Debug\".
+  Creating directory "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_cfaf0.dir\Debug\cmTC_cfaf0.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_cfaf0.dir\Debug\cmTC_cfaf0.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cfaf0.dir\Debug\\" /Fd"cmTC_cfaf0.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23918 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cfaf0.dir\Debug\\" /Fd"cmTC_cfaf0.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_cfaf0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_cfaf0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_cfaf0.lib" /MACHINE:X64  /machine:x64 cmTC_cfaf0.dir\Debug\testCCompiler.obj
+  cmTC_cfaf0.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_cfaf0.exe
+  cmTC_cfaf0.vcxproj -> C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_cfaf0.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_cfaf0.dir\Debug\cmTC_cfaf0.tlog\unsuccessfulbuild".
+  Touching "cmTC_cfaf0.dir\Debug\cmTC_cfaf0.tlog\cmTC_cfaf0.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_cfaf0.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.74
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_e9eea.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:57:52 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_e9eea.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e9eea.dir\Debug\".
+  Creating directory "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_e9eea.dir\Debug\cmTC_e9eea.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e9eea.dir\Debug\cmTC_e9eea.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e9eea.dir\Debug\\" /Fd"cmTC_e9eea.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23918 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e9eea.dir\Debug\\" /Fd"cmTC_e9eea.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_e9eea.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_e9eea.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_e9eea.lib" /MACHINE:X64  /machine:x64 cmTC_e9eea.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_e9eea.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_e9eea.exe
+  cmTC_e9eea.vcxproj -> C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_e9eea.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_e9eea.dir\Debug\cmTC_e9eea.tlog\unsuccessfulbuild".
+  Touching "cmTC_e9eea.dir\Debug\cmTC_e9eea.tlog\cmTC_e9eea.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_e9eea.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.85
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_6ef7b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:57:53 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_6ef7b.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_6ef7b.dir\Debug\".
+  Creating directory "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_6ef7b.dir\Debug\cmTC_6ef7b.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_6ef7b.dir\Debug\cmTC_6ef7b.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6ef7b.dir\Debug\\" /Fd"cmTC_6ef7b.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23918 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6ef7b.dir\Debug\\" /Fd"cmTC_6ef7b.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_6ef7b.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_6ef7b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_6ef7b.lib" /MACHINE:X64  /machine:x64 cmTC_6ef7b.dir\Debug\testCXXCompiler.obj
+  cmTC_6ef7b.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_6ef7b.exe
+  cmTC_6ef7b.vcxproj -> C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_6ef7b.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_6ef7b.dir\Debug\cmTC_6ef7b.tlog\unsuccessfulbuild".
+  Touching "cmTC_6ef7b.dir\Debug\cmTC_6ef7b.tlog\cmTC_6ef7b.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_6ef7b.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.71
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_3f9af.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:57:55 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_3f9af.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_3f9af.dir\Debug\".
+  Creating directory "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_3f9af.dir\Debug\cmTC_3f9af.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_3f9af.dir\Debug\cmTC_3f9af.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_3f9af.dir\Debug\\" /Fd"cmTC_3f9af.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23918 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_3f9af.dir\Debug\\" /Fd"cmTC_3f9af.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_3f9af.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_3f9af.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_3f9af.lib" /MACHINE:X64  /machine:x64 cmTC_3f9af.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_3f9af.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_3f9af.exe
+  cmTC_3f9af.vcxproj -> C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_3f9af.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_3f9af.dir\Debug\cmTC_3f9af.tlog\unsuccessfulbuild".
+  Touching "cmTC_3f9af.dir\Debug\cmTC_3f9af.tlog\cmTC_3f9af.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_3f9af.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.81
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_c2d12.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:57:56 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_c2d12.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_c2d12.dir\Debug\".
+  Creating directory "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_c2d12.dir\Debug\cmTC_c2d12.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_c2d12.dir\Debug\cmTC_c2d12.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c2d12.dir\Debug\\" /Fd"cmTC_c2d12.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23918 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c2d12.dir\Debug\\" /Fd"cmTC_c2d12.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_c2d12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_c2d12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_c2d12.lib" /MACHINE:X64  /machine:x64 cmTC_c2d12.dir\Debug\feature_tests.obj
+  cmTC_c2d12.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_c2d12.exe
+  cmTC_c2d12.vcxproj -> C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_c2d12.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_c2d12.dir\Debug\cmTC_c2d12.tlog\unsuccessfulbuild".
+  Touching "cmTC_c2d12.dir\Debug\cmTC_c2d12.tlog\cmTC_c2d12.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_c2d12.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.50
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_a5b28.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:57:58 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_a5b28.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_a5b28.dir\Debug\".
+  Creating directory "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_a5b28.dir\Debug\cmTC_a5b28.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_a5b28.dir\Debug\cmTC_a5b28.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a5b28.dir\Debug\\" /Fd"cmTC_a5b28.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23918 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a5b28.dir\Debug\\" /Fd"cmTC_a5b28.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_a5b28.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_a5b28.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_a5b28.lib" /MACHINE:X64  /machine:x64 cmTC_a5b28.dir\Debug\CheckIncludeFile.obj
+  cmTC_a5b28.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_a5b28.exe
+  cmTC_a5b28.vcxproj -> C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_a5b28.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_a5b28.dir\Debug\cmTC_a5b28.tlog\unsuccessfulbuild".
+  Touching "cmTC_a5b28.dir\Debug\cmTC_a5b28.tlog\cmTC_a5b28.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_a5b28.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.06
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_77bc2.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:57:59 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_77bc2.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_77bc2.dir\Debug\".
+  Creating directory "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_77bc2.dir\Debug\cmTC_77bc2.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_77bc2.dir\Debug\cmTC_77bc2.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_77bc2.dir\Debug\\" /Fd"cmTC_77bc2.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23918 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_77bc2.dir\Debug\\" /Fd"cmTC_77bc2.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_77bc2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_77bc2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_77bc2.lib" /MACHINE:X64  /machine:x64 cmTC_77bc2.dir\Debug\CheckIncludeFile.obj
+  cmTC_77bc2.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_77bc2.exe
+  cmTC_77bc2.vcxproj -> C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_77bc2.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_77bc2.dir\Debug\cmTC_77bc2.tlog\unsuccessfulbuild".
+  Touching "cmTC_77bc2.dir\Debug\cmTC_77bc2.tlog\cmTC_77bc2.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_77bc2.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.64
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_8edf0.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:58:01 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_8edf0.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_8edf0.dir\Debug\".
+  Creating directory "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_8edf0.dir\Debug\cmTC_8edf0.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_8edf0.dir\Debug\cmTC_8edf0.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8edf0.dir\Debug\\" /Fd"cmTC_8edf0.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23918 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8edf0.dir\Debug\\" /Fd"cmTC_8edf0.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_8edf0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_8edf0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_8edf0.lib" /MACHINE:X64  /machine:x64 cmTC_8edf0.dir\Debug\CheckIncludeFile.obj
+  cmTC_8edf0.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_8edf0.exe
+  cmTC_8edf0.vcxproj -> C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_8edf0.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_8edf0.dir\Debug\cmTC_8edf0.tlog\unsuccessfulbuild".
+  Touching "cmTC_8edf0.dir\Debug\cmTC_8edf0.tlog\cmTC_8edf0.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_8edf0.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.05
+
+
+Determining size of void* passed with the following output:
+Change Dir: C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_e4766.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:58:02 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_e4766.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e4766.dir\Debug\".
+  Creating directory "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_e4766.dir\Debug\cmTC_e4766.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e4766.dir\Debug\cmTC_e4766.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e4766.dir\Debug\\" /Fd"cmTC_e4766.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23918 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e4766.dir\Debug\\" /Fd"cmTC_e4766.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c"
+  
+  SIZE_OF_VOID_PTR.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_e4766.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_e4766.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_e4766.lib" /MACHINE:X64  /machine:x64 cmTC_e4766.dir\Debug\SIZE_OF_VOID_PTR.obj
+  cmTC_e4766.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_e4766.exe
+  cmTC_e4766.vcxproj -> C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_e4766.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_e4766.dir\Debug\cmTC_e4766.tlog\unsuccessfulbuild".
+  Touching "cmTC_e4766.dir\Debug\cmTC_e4766.tlog\cmTC_e4766.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_e4766.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.48
+
+
+Determining if the function png_create_read_struct exists passed with the following output:
+Change Dir: C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_cf8ff.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25123.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 1/11/2018 11:58:05 AM.
+Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_cf8ff.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_cf8ff.dir\Debug\".
+  Creating directory "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_cf8ff.dir\Debug\cmTC_cf8ff.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_cf8ff.dir\Debug\cmTC_cf8ff.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=png_create_read_struct /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cf8ff.dir\Debug\\" /Fd"cmTC_cf8ff.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23918 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=png_create_read_struct /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cf8ff.dir\Debug\\" /Fd"cmTC_cf8ff.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_cf8ff.exe" /INCREMENTAL /NOLOGO C:\Users\VietVo\Anaconda3\Library\lib\libpng.lib C:\Users\VietVo\Anaconda3\Library\lib\z.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_cf8ff.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_cf8ff.lib" /MACHINE:X64  /machine:x64 cmTC_cf8ff.dir\Debug\CheckFunctionExists.obj
+  cmTC_cf8ff.vcxproj -> C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\Debug\cmTC_cf8ff.exe
+  cmTC_cf8ff.vcxproj -> C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/CMakeTmp/Debug/cmTC_cf8ff.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTC_cf8ff.dir\Debug\cmTC_cf8ff.tlog\unsuccessfulbuild".
+  Touching "cmTC_cf8ff.dir\Debug\cmTC_cf8ff.tlog\cmTC_cf8ff.lastbuildstate".
+Done Building Project "C:\Users\VietVo\Downloads\dlib-19.8\dlib-19.8\build\CMakeFiles\CMakeTmp\cmTC_cf8ff.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.26
+
+

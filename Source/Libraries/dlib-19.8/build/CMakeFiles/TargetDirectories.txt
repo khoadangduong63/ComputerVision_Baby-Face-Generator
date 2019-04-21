@@ -1,0 +1,4 @@
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/dlib.dir
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/INSTALL.dir
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/VietVo/Downloads/dlib-19.8/dlib-19.8/build/CMakeFiles/ZERO_CHECK.dir
